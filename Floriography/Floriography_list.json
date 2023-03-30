@@ -1,0 +1,58 @@
+[
+    {
+        "imageName":"camellia",
+        "name":"Camellia",
+        "meaning":"Longing for you",
+        "origin":"The camellia’s meaning originates with the 1848 Alexandre Dumas novel, La dame aux camélias, which tells the tragic love story of Armand Duval—a young bourgeois—and Marguerite Gautier, a courtesan. The two fall in love, but their relationship is undermined by Armand’s father. Fearing scandal, he convinces Marguerite to leave Armand. Armand mourns his beloved, but he doesn’t pursue her, believing she has left him for another man. Meanwhile, Marguerite falls ill with consumption. She dies alone, pining for Armand and what could have been.",
+        "pairWith":"Daffodil to show longing for an unrequited love\n\nZinnia as a gift for a friend who is moving away",
+        "tag":"Friendship, Heartbreak, Love&Romance"
+    },
+    {
+        "imageName":"clover",
+        "name":"Clover",
+        "meaning":"Good luck",
+        "origin":"Clovers, in particular four-leaf clovers, have been associated with luck for centuries. The ancient Druids in Ireland believed that carrying a clover allowed one to detect evil spirits approaching. Similarly, in the Middle Ages, many Irish believed that carrying a four-leaf clover allowed one to see fairies. In 1620, in the earliest recorded mention of clover’s association with luck, Sir John Melton wrote, “If any man walking in the fields, find any foure-leaved grasse, he shall in a small while after find some good thing.”",
+        "pairWith":"Heather and wheat for good luck with a new business venture\n\nApple blossom and dandelion to show hope that the recipient’s wishes will come true",
+        "tag":"Encouragement"
+    },
+    {
+        "imageName":"daisy",
+        "name":"Daisy",
+        "meaning":"Innocence, Childhood, Purity",
+        "origin":"The daisy is associated with innocence, childhood, and purity in a number of folklore traditions. In Norse mythology, the daisy is tied to Freya, the goddess of fertility, motherhood, and childbirth. In Celtic tradition, daisies grew for the spirits of children who died in birth. And in ancient Roman mythology, the nymph Belides turns herself into a daisy to preserve her innocence while she’s pursued by Vertumnus, the god of the seasons.",
+        "pairWith":"Baby’s breath as a gift for a newborn baby\n\nPeony and violet for an expression of childhood bliss",
+        "tag":"Parents&Children, Well-wishes&Congratulations"
+   },
+   {
+       "imageName":"hyacinth",
+       "name":"Hyacinth",
+       "meaning":"Please forgive me",
+       "origin":"The hyacinth takes its name and meaning from Greek mythology. Hyacinthus, a beautiful young man, was beloved by Apollo. During a game of discus throwing, Apollo’s discus was knocked from its course by a jealous Zephyrus, striking Hyacinthus and killing him. Hyacinth flowers were said to have grown from the blood that fell from his head wound as Apollo begged his forgiveness.",
+       "pairWith":"Olive to ask for peace and forgiveness\n\nPansy to indicate your betrayal haunts you",
+       "tag":"Apology&Forgiveness, Heartbreak"
+   },
+   {
+       "imageName":"hydrangea",
+       "name":"Hydrangea",
+       "meaning":"Boastfulness, Heartlessness",
+       "origin":"The hydrangea’s negative association with boastfulness and heartlessness comes from its bountiful and round blooms. Large and abundant, the magnificent flowers only produce a few seeds, supporting the notion that they are all show and little substance.",
+       "pairWith":"Tansy and petunia to indicate your displeasure at a recent turn of events\n\nFern to reassure a friend that you will keep their secret indiscretion to yourself",
+       "tag":"Heartbreak"
+   },
+   {
+       "imageName":"iris",
+       "name":"Iris",
+       "meaning":"Valor, Wisdom, Faith",
+       "origin":"The iris has long been associated with power and victory; the ancient Egyptians used the iris to crown the brow of the Sphinx. Years later, Clovis I, the fifth-century king of the Franks, won a significant battle after seeing irises blooming in a river. His soldiers adorned themselves with the flowers afterward, and the iris’s three upper petals were then said to represent the valor, wisdom, and faith that led to their success in battle.",
+       "pairWith":"Bluebells to show humility in victory\n\nClematis to indicate admiration for ingenuity",
+       "tag":"Encouragement, Faith&Spirituality, Friendship, Gratitude"
+    },
+    {
+       "imageName":"jasmine",
+       "name":"Jasmine",
+       "meaning":"Amiability,Cheerfulness",
+       "origin":"Jasmine’s light and lovely scent, along with its elegantly shaped blooms, perfectly convey amiability and cheerfulness. It is often used in weddings and celebrations, especially in the Philippines, Pakistan, and Indonesia, where it is a native plant.",
+       "pairWith":"Iris to show admiration for a friend’s strength of character\n\nCrocus for a kind and generous loved one, or one with a particular zest for life",
+       "tag":"Friendship"
+    }
+]
